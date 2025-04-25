@@ -1,5 +1,7 @@
 # Prerequisites
-```pip install pandas```
+```
+pip install pandas
+```
 # CSV-file-Spliter
 a csv file spliter based on gievn time range(precision Hour, minutes, Second)
 ### steps
